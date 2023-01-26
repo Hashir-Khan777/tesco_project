@@ -1,0 +1,16 @@
+.fixed-modal-scroll-container{
+  max-height:40vh;
+  overflow-y: scroll;
+  width: 100%;
+  padding: 1em;
+  padding-left: 3em;
+    
+
+   
+   
+    
+}
+.fixed-modal-scroll-container::-webkit-scrollbar{
+    /* display: none; */
+   
+}

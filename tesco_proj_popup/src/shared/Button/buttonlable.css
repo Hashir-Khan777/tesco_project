@@ -1,0 +1,5 @@
+@media all and (max-width:442px){
+   .button-class-variant{
+    max-width:10em ;
+   } 
+}

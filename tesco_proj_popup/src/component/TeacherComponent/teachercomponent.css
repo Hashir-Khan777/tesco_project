@@ -1,0 +1,27 @@
+.Image-with-list-container{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 100em;
+    min-height: 20em;
+    
+}
+.image-container{
+    display: flex;
+    align-items: center;
+}
+.image-list{
+    margin-top: -2em;
+    margin-left: -1.5em;
+  }
+  .image-with-list-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .search-input{
+    padding: 0.7em;
+    outline: none;
+    min-width: 30em;
+    border-radius: 1em;
+    font-size: 1.2em;
+    border-color: rgb(154, 153, 153);
+  }

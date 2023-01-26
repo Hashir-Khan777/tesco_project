@@ -1,0 +1,43 @@
+.questionnaries-container{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    min-height: 10em;
+    border-radius: 0.6em;
+   
+  }
+  .edit-container{
+    margin-left: auto;
+  }
+  .questionnaries-details-container{
+    text-align: left;
+    padding: 1em;
+    color: gray;
+    
+    
+  }
+  @media all and (max-width: 679px) {
+    .edit-image{
+      min-height: 2em;
+    }
+    .trangle-iamge{
+        min-height:1em
+        
+
+    }
+    
+  }
+  @media all and (max-width: 420px) {
+    .edit-image{
+      min-height: 0.2em;
+    }
+    .trangle-iamge{
+        min-height:0.5em
+        
+
+    }
+  
+    
+  }
+  .textArea{
+    width: 100%;
+    min-height:1em;
+  }

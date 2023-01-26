@@ -1,0 +1,8 @@
+.fixed-side-scroll-container{
+    height:80vh;
+    overflow-y: scroll;
+}
+.fixed-side-scroll-container::-webkit-scrollbar{
+    display: none;
+   
+}

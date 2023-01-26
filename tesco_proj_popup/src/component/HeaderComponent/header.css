@@ -1,0 +1,30 @@
+.header-container {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+/* @media all and (max-width: 679px) {
+  .header-label-image {
+    min-height: 2em;
+  }
+  .header-image {
+    min-height: 10px;
+    max-width: 100%;
+  }
+} */
+
+/* @media all and (min-width:2176px) {
+ .header-image:{
+  width: 100vw;
+ }
+} */
+@media all and (min-width:300px) and (max-width:679px) {
+  .header-label-image{
+    max-height:1px;
+    min-width: 1em;
+  }
+  .iamge-logonavbar{
+    max-height:1em;
+    min-width: 1em;
+  }
+  
+}
