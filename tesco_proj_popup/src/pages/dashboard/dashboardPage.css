@@ -1,0 +1,104 @@
+@media all and (max-width: 900px) {
+  .grid-side-container{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+  }
+}
+.close-button{
+  position: absolute;
+  top:4%;
+  left:0%
+}
+.open-button{
+  position: absolute;
+  top:4%;
+  left:0%
+}
+/* @media all  and (max-width:3760px) {
+  .close-button {
+    position: absolute;
+    top: 40%;
+    left:25%
+    
+    
+  }
+  .open-button{
+    position:absolute;
+    top: 50%;
+    left:1% 
+  }
+} */
+
+/* @media all and (min-width:2012px) and (max-width:2659px) {
+  .close-button {
+    position: absolute;
+    top: 1em;
+    left: 30em;
+  }
+}
+@media all and (min-width:1537px) and (max-width:2011px) {
+  .close-button {
+    position: absolute;
+    top: 35%;
+    left:25%
+    
+    
+  }
+}
+
+@media all and (min-width: 1200px) and (max-width: 1536px) {
+  .close-button {
+    position: absolute;
+    top: 1em;
+    left: 20em;
+  }
+}
+
+
+} */
+/* @media all and (min-width: 900px) and (max-width: 1199px) {
+  .close-button {
+    position: absolute;
+    top: 40%;
+    left:34%
+    
+  }
+  .open-button{
+    position:absolute;
+    top: 40%;
+    left:1% 
+  }
+}
+@media all and (min-width: 700px) and (max-width: 899px) {
+  .close-button {
+    position: absolute;
+    top: 40%;
+    left:38%
+    
+  }
+  .open-button{
+    position:absolute;
+    top: 40%;
+    left:1% 
+  }
+}
+@media all and (min-width:550px) and (max-width: 700px) {
+  .close-button {
+    position: absolute;
+    top: 1%;
+    left:50%
+    
+  }
+  .open-button{
+    position:absolute;
+    top: 1%;
+    left:4% 
+  }
+}
+ */
+ @media all and (max-width:549px){
+
+  
+}

@@ -1,0 +1,31 @@
+.side-bar-style-container-active{
+    display: flex;
+    
+  
+    /* align-items: "center";
+    justify-content: center; */
+    
+}
+.paper-side-bar{
+   
+   
+}
+@media all and (max-width:709px){
+    /* .paper-side-bar{
+     position: absolute;
+     z-index: 1000;
+     
+     
+    } */
+   
+    
+   
+   
+  
+}
+
+@media all and (max-width:450px){
+   
+   
+  
+}

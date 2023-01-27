@@ -1,0 +1,22 @@
+@media all and (max-width: 480px) {
+  img {
+    min-height:3.3em;
+  }
+  .imageLogo{
+    min-width:2em;
+    min-height:2em;
+  }
+}
+@media all and (max-width: 678px) { 
+    img {
+      min-height: 3.3em;
+    }
+    .imageLogo{
+      min-width:2em;
+      min-height:2em;
+    }
+  }
+.css-ur2jdm-MuiContainer-root {
+    margin: 0 !important;
+    padding: 0 !important;
+}

@@ -1,0 +1,22 @@
+.card-with-indicator-container{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    /* width: 45em; */
+    min-height:23em;
+    border-radius: 0.5em;
+    background-color: white;
+}
+.card-with-indicator-label-container{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    /* width: 10em; */
+    margin-top: -1em;
+    /* width: 40em; */
+    width: 80%;
+    border-radius:1em;
+
+    padding: 1em 0.2em;
+}
+.card-with-indicator-main{
+    display: flex;
+    justify-content: center;
+}
+
